@@ -1,9 +1,9 @@
 ## Thông Tin 
 - MSSV: 21010604
-- Họ Và Tên:Đinh Minh Phương
+- Họ Và Tên:Đinh Minh Phương 
 ## Background
 - Mô tả kinh nghiêm chưa có nhiều kinh nghiệm 
-- Điểm nhập môn CNTT: 8
+- Điểm nhập môn CNTT: 8.5
 - Điểm lập trình C:9
 
 ## Mục Tiêu
